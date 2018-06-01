@@ -3319,7 +3319,7 @@ triggerOutputs()
 
 <a name="trim"></a>
 
-## <a name="trim"></a>découper
+## <a name="trim"></a>trim
 
 Supprime les espaces blancs de début et de fin d’une chaîne et retourne la chaîne mise à jour.
 
