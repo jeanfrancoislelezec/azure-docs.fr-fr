@@ -282,7 +282,7 @@ Pour travailler avec des chaînes, vous pouvez utiliser ces fonctions de chaîne
 | [substring](../logic-apps/workflow-definition-language-functions-reference.md#substring) | Renvoyer les caractères d’une chaîne, en commençant à partir de la position spécifiée. | 
 | [toLower](../logic-apps/workflow-definition-language-functions-reference.md#toLower) | Renvoyer une chaîne en minuscules. | 
 | [toUpper](../logic-apps/workflow-definition-language-functions-reference.md#toUpper) | Renvoyer une chaîne en majuscules. | 
-| [découper](../logic-apps/workflow-definition-language-functions-reference.md#trim) | Supprimer les espaces blancs de début et de fin d’une chaîne et renvoyer la chaîne mise à jour. | 
+| [trim](../logic-apps/workflow-definition-language-functions-reference.md#trim) | Supprimer les espaces blancs de début et de fin d’une chaîne et renvoyer la chaîne mise à jour. | 
 ||| 
 
 <a name="collection-functions"></a>
